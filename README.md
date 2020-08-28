@@ -1,7 +1,8 @@
 # DesafioFluxos
 Exercício de fluxos em Java, proposto na Digital House Brasil.
 
-##Atividade proposta
+## Atividade proposta
+
 Você deve desenvolver um pequeno sistema para uma loja. O sistema deve possuir uma lista de produtos, uma lista de clientes e uma lista de compras. Presumiremos aqui que cada compra contenha apenas um produto.
 Você deve popular a lista de clientes e produtos e então fazer o preenchimento da lista de compras que deve receber um cliente e um produto.
 
